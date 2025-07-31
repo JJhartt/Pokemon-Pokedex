@@ -69,7 +69,7 @@ Shows error messages if Pokémon isn't found
 
 Example
 
-![PokeDex Demo](7-31-2025 (16-13-50).gif)
+![PokeDex Demo](demo.gif)
 
 Search for "pikachu" to see:
 
