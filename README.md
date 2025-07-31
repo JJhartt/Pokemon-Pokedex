@@ -41,7 +41,7 @@ Installation
 Clone this repository:
 
 bash
-git clone https://github.com/JJhart/pokedex-app.git
+git clone https://github.com/JJhartt/Pokemon-Pokedex.git
 cd pokedex-app
 Install the required dependencies:
 
